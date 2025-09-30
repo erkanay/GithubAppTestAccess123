@@ -1,5 +1,6 @@
 import java.util.concurrent.ThreadLocalRandom;
 
+
 public class ThreadLocalRandomExample {
     public static void main(String[] args) {
         // Get the current thread's ThreadLocalRandom
